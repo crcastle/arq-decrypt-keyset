@@ -1,4 +1,5 @@
 arq-keys
 arq-keys.exe
 *.dat
-
+*-darwin-arm64
+*-windows-amd64.exe
